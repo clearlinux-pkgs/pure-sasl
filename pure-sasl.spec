@@ -4,7 +4,7 @@
 #
 Name     : pure-sasl
 Version  : 0.6.2
-Release  : 1
+Release  : 2
 URL      : https://files.pythonhosted.org/packages/83/b7/a0d688f86c869073cc28c0640899394a1cf68a6d87ee78a09565e9037da6/pure-sasl-0.6.2.tar.gz
 Source0  : https://files.pythonhosted.org/packages/83/b7/a0d688f86c869073cc28c0640899394a1cf68a6d87ee78a09565e9037da6/pure-sasl-0.6.2.tar.gz
 Summary  : Pure Python client SASL implementation
